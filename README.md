@@ -50,6 +50,6 @@ The following pages are created
 	* Displays all unarchived clients
 	* Each existing client can be clicked on, which will route the user to a page in which client data can be updated
 * Client Management Page
-	* Client name and phone number information is editable on this page (make sure multiple phone numbers can be added/edited/removed)
+	* Client name and phone number information is editable on this page
 	* A save button will persist the updates and return you back to the dashboard
 	* There is also an archive button in this page that will archive the Client record and return you to the dashboard
